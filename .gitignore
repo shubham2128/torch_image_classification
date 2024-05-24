@@ -1,0 +1,9 @@
+# Ignore .env files
+.env
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore dataset folder
+dataset/
